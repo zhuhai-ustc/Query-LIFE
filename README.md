@@ -5,7 +5,7 @@
 Query : green dress
 
 Product title: VERBENA Green Alhambra Dress Bimani Dresses and Jumpsuits Wedding Party Guest
-![Product image](green_dress1.png)
+![Product image](green_dress.png)
 
 #
 
