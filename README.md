@@ -22,3 +22,19 @@ Query : phone
 Product title: Blackview A52 Green 6.5 inch Android 11.0 Phone 2GB+32GB Dual Back Cameras, 5180mAh Battery Octa Core 4G Dual SIM Smartphone
 
 ![Product image](phone.png)
+
+
+# 
+
+Query : laptop
+![Product image](laptop.png)
+
+# 
+
+Query : toy
+![Product image](toy.png)
+
+# 
+
+Query : appliance
+![Product image](appliance.png)
