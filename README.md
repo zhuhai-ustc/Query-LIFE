@@ -41,9 +41,12 @@ Query : appliance
 
 ## We take out crossattention and draw a heat map, where the abscissa is the image vector and the ordinate is the multi modal vector.
 ![Query-LIFE on toy](qlife_toy.png)
+**Figure 1.** Attention of Query-LIFE on toy.
 ![BLIP2 on toy](blip_toy.png)
-
+**Figure 2.** Attention of BLIP2 on toy.
 #
 ![Query-LIFE on phone](qlife_phone.png)
+**Figure 3.** Attention of Query-LIFE on phone.
 ![BLIP2 on phone](blip_phone.png)
+**Figure 4.** Attention of BLIP2 on phone.
 
