@@ -38,3 +38,8 @@ Query : toy
 
 Query : appliance
 ![Product image](appliance.png)
+
+## 
+We take out crossattention and draw a heat map, where the abscissa is the image vector and the ordinate is the multi modal vector.
+![Query-LIFE on toy](appliance.png)
+
