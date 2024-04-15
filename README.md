@@ -42,6 +42,7 @@ Result:
 # 
 
 Query : laptop
+
 Result:
 
 ![Product image](laptop.png)
@@ -49,6 +50,7 @@ Result:
 # 
 
 Query : toy
+
 Result:
 
 ![Product image](toy.png)
@@ -56,6 +58,7 @@ Result:
 # 
 
 Query : appliance
+
 Result:
 
 ![Product image](appliance.png)
