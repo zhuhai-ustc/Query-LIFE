@@ -2,7 +2,7 @@
 #
 ## We take out crossattention and draw a heat map, where the abscissa is the image vector and the ordinate is the multi modal vector.
 
-As shown in below Figure, in query-life's multi-modal vector of the toy product, most of the attention is focused on the image; while for the phone product, there are a few attention focused on image. On the contrary, blip2 maintains a relatively uniform attention distribution for toys and phones.
+As shown in below Figure, the redder shows the higher the attention value, the bluer shows the lower the attention value.  In query-life's multi-modal vector of the toy product, most of the attention is focused on the image; while for the phone product, there are a few attention focused on image. On the contrary, blip2 maintains a relatively uniform attention distribution for toys and phones.
 ![Query-LIFE on toy](qlife_toy.png)
 **Figure 1.** Attention of Query-LIFE on toy.
 ![BLIP2 on toy](blip_toy.png)
