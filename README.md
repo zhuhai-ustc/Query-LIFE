@@ -18,14 +18,15 @@ As shown in below Figure, in query-life's multi-modal vector of the toy product,
 
 Query : green dress
 
-Product title: VERBENA Green Alhambra Dress Bimani Dresses and Jumpsuits Wedding Party Guest
+Result:
+
 ![Product image](green_dress.png)
 
 #
 
 Query : monitor
 
-Product title: Samsung Monitor 24 LED IPS FullHD 1080P 75Hz FreeSync - Respuesta 5ms - Angulo de Vision 178° - 16:9 - HDMI, VGA - VESA 100x100mm
+Result:
 
 ![Product image](monitor.png)
 
@@ -33,7 +34,7 @@ Product title: Samsung Monitor 24 LED IPS FullHD 1080P 75Hz FreeSync - Respuesta
 
 Query : phone
 
-Product title: Blackview A52 Green 6.5 inch Android 11.0 Phone 2GB+32GB Dual Back Cameras, 5180mAh Battery Octa Core 4G Dual SIM Smartphone
+Result:
 
 ![Product image](phone.png)
 
@@ -41,15 +42,21 @@ Product title: Blackview A52 Green 6.5 inch Android 11.0 Phone 2GB+32GB Dual Bac
 # 
 
 Query : laptop
+Result:
+
 ![Product image](laptop.png)
 
 # 
 
 Query : toy
+Result:
+
 ![Product image](toy.png)
 
 # 
 
 Query : appliance
+Result:
+
 ![Product image](appliance.png)
 
